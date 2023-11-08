@@ -1,12 +1,3 @@
-## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p>O presente projeto trata-se de um trabalho colaborativo entre discentes e o docente da disciplina de física experimental. A mesma faz parte da série curricular do curso de Química da UFPB, campus II, localizado na cidade de Areia-PB. Além de apresentar os dados experimentais realizados para encontrar o valor do PI, este trabalho também tem o intuito de contribuir para os dicentes e comunidade com novos conhecimentos de ferramentas importantes para a ciência, como o Markdown, Python, GitHub e demais utilizados nos documentos deste projeto.</p> 
+<p>Nesta perspectiva, este espaço virtual têm como objetivo tornar público as atividades experimentais realizadas por estudantes do curso de Química sob orientação/supervisão do professor de física.</p> 
